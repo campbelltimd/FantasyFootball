@@ -1,0 +1,146 @@
+﻿Date,Season ,Team,Opponent,Result,Played,Game_ID,Home ,Points_For,Points_Against,Spread
+9/12/21,2021,RIP Jeff's Integreity,Wharton WoW Club ,L,TRUE,1,1,100.73,105.55,-4.82
+9/12/21,2021,"BernardPollard, Licc My Kupp",Jackson's Prep School Jailbate,W,TRUE,2,1,99.73,87.42,12.31
+9/12/21,2021,Wingville Wingdogs,Hobblin' Goblins,L,TRUE,3,1,88.66,106.54,-17.88
+9/12/21,2021,Matty Ice’s Noodle Arm,Long Island City Kitties,W,TRUE,4,1,89.21,72.95,16.26
+9/12/21,2021,The Hartford Football Team,Bonney Eagle Scots,L,TRUE,5,1,100.23,116.56,-16.33
+9/12/21,2021,Amit Dubey's Apple Swan Bird,The Frisky Kittens,L,TRUE,6,1,114.76,122.98,-8.22
+9/12/21,2021,Wharton WoW Club ,RIP Jeff's Integreity,W,TRUE,1,0,105.55,100.73,4.82
+9/12/21,2021,Jackson's Prep School Jailbate,"BernardPollard, Licc My Kupp",L,TRUE,2,0,87.42,99.73,-12.31
+9/12/21,2021,Hobblin' Goblins,Wingville Wingdogs,W,TRUE,3,0,106.54,88.66,17.88
+9/12/21,2021,Long Island City Kitties,Matty Ice’s Noodle Arm,L,TRUE,4,0,72.95,89.21,-16.26
+9/12/21,2021,Bonney Eagle Scots,The Hartford Football Team,W,TRUE,5,0,116.56,100.23,16.33
+9/12/21,2021,The Frisky Kittens,Amit Dubey's Apple Swan Bird,W,TRUE,6,0,122.98,114.76,8.22
+9/19/21,2021,Long Island City Kitties,RIP Jeff's Integreity,L,TRUE,7,1,98.86,134.07,-35.21
+9/19/21,2021,Swanky Shells,Wingville Wingdogs,L,TRUE,8,1,74.08,103.39,-29.31
+9/19/21,2021,Jackson's Prep School Jailbate,Matty Ice’s Noodle Arm,W,TRUE,9,1,127.4,91.05,36.35
+9/19/21,2021,Hobblin' Goblins,The Hartford Football Team,W,TRUE,10,1,94.32,85.42,8.9
+9/19/21,2021,Bonney Eagle Scots,Amit Dubey's Apple Swan Bird,L,TRUE,11,1,96.75,143.37,-46.62
+9/19/21,2021,Wharton WoW Club ,The Frisky Kittens,W,TRUE,12,1,111.81,81.08,30.73
+9/19/21,2021,RIP Jeff's Integreity,Long Island City Kitties,W,TRUE,7,0,134.07,98.86,35.21
+9/19/21,2021,Wingville Wingdogs,Swanky Shells,W,TRUE,8,0,103.39,74.08,29.31
+9/19/21,2021,Matty Ice’s Noodle Arm,Jackson's Prep School Jailbate,L,TRUE,9,0,91.05,127.4,-36.35
+9/19/21,2021,The Hartford Football Team,Hobblin' Goblins,L,TRUE,10,0,85.42,94.32,-8.9
+9/19/21,2021,Amit Dubey's Apple Swan Bird,Bonney Eagle Scots,W,TRUE,11,0,143.37,96.75,46.62
+9/19/21,2021,The Frisky Kittens,Wharton WoW Club ,L,TRUE,12,0,81.08,111.81,-30.73
+9/26/21,2021,RIP Jeff's Integreity,Jackson's Prep School Jailbate,W,TRUE,13,1,114.45,101.59,12.86
+9/26/21,2021,Matty Ice’s Noodle Arm,"BernardPollard, Licc My Kupp",L,TRUE,14,1,95.29,105.83,-10.54
+9/26/21,2021,The Hartford Football Team,Swanky Shells,W,TRUE,15,1,83.74,80.17,3.57
+9/26/21,2021,Amit Dubey's Apple Swan Bird,Hobblin' Goblins,W,TRUE,16,1,110.57,94.87,15.7
+9/26/21,2021,The Frisky Kittens,Long Island City Kitties,W,TRUE,17,1,112.88,76.62,36.26
+9/26/21,2021,Wharton WoW Club ,Bonney Eagle Scots,L,TRUE,18,1,86.98,104.24,-17.26
+9/26/21,2021,Jackson's Prep School Jailbate,RIP Jeff's Integreity,L,TRUE,13,0,101.59,114.45,-12.86
+9/26/21,2021,"BernardPollard, Licc My Kupp",Matty Ice’s Noodle Arm,W,TRUE,14,0,105.83,95.29,10.54
+9/26/21,2021,Swanky Shells,The Hartford Football Team,L,TRUE,15,0,80.17,83.74,-3.57
+9/26/21,2021,Hobblin' Goblins,Amit Dubey's Apple Swan Bird,L,TRUE,16,0,94.87,110.57,-15.7
+9/26/21,2021,Long Island City Kitties,The Frisky Kittens,L,TRUE,17,0,76.62,112.88,-36.26
+9/26/21,2021,Bonney Eagle Scots,Wharton WoW Club ,W,TRUE,18,0,104.24,86.98,17.26
+10/3/21,2021,"BernardPollard, Licc My Kupp",RIP Jeff's Integreity,L,TRUE,19,1,87.17,95.97,-8.8
+10/3/21,2021,Wingville Wingdogs,The Hartford Football Team,W,TRUE,20,1,120.26,94.93,25.33
+10/3/21,2021,Swanky Shells,Amit Dubey's Apple Swan Bird,W,TRUE,21,1,117.02,111.26,5.76
+10/3/21,2021,Jackson's Prep School Jailbate,The Frisky Kittens,L,TRUE,22,1,82.42,96.82,-14.4
+10/3/21,2021,Hobblin' Goblins,Wharton WoW Club ,L,TRUE,23,1,99.3,110.89,-11.59
+10/3/21,2021,Long Island City Kitties,Bonney Eagle Scots,W,TRUE,24,1,114.27,64.82,49.45
+10/3/21,2021,RIP Jeff's Integreity,"BernardPollard, Licc My Kupp",W,TRUE,19,0,95.97,87.17,8.8
+10/3/21,2021,The Hartford Football Team,Wingville Wingdogs,L,TRUE,20,0,94.93,120.26,-25.33
+10/3/21,2021,Amit Dubey's Apple Swan Bird,Swanky Shells,L,TRUE,21,0,111.26,117.02,-5.76
+10/3/21,2021,The Frisky Kittens,Jackson's Prep School Jailbate,W,TRUE,22,0,96.82,82.42,14.4
+10/3/21,2021,Wharton WoW Club ,Hobblin' Goblins,W,TRUE,23,0,110.89,99.3,11.59
+10/3/21,2021,Bonney Eagle Scots,Long Island City Kitties,L,TRUE,24,0,64.82,114.27,-49.45
+10/10/21,2021,RIP Jeff's Integreity,Matty Ice’s Noodle Arm,L,TRUE,25,1,97.28,162.82,-65.54
+10/10/21,2021,Amit Dubey's Apple Swan Bird,Wingville Wingdogs,L,TRUE,26,1,76.28,153.34,-77.06
+10/10/21,2021,The Frisky Kittens,"BernardPollard, Licc My Kupp",L,TRUE,27,1,81.34,105.58,-24.24
+10/10/21,2021,Wharton WoW Club ,Swanky Shells,W,TRUE,28,1,169.83,134.03,35.8
+10/10/21,2021,Bonney Eagle Scots,Jackson's Prep School Jailbate,L,TRUE,29,1,91.76,107.06,-15.3
+10/10/21,2021,Long Island City Kitties,Hobblin' Goblins,W,TRUE,30,1,112.15,68.9,43.25
+10/10/21,2021,Matty Ice’s Noodle Arm,RIP Jeff's Integreity,W,TRUE,25,0,162.82,97.28,65.54
+10/10/21,2021,Wingville Wingdogs,Amit Dubey's Apple Swan Bird,W,TRUE,26,0,153.34,76.28,77.06
+10/10/21,2021,"BernardPollard, Licc My Kupp",The Frisky Kittens,W,TRUE,27,0,105.58,81.34,24.24
+10/10/21,2021,Swanky Shells,Wharton WoW Club ,L,TRUE,28,0,134.03,169.83,-35.8
+10/10/21,2021,Jackson's Prep School Jailbate,Bonney Eagle Scots,W,TRUE,29,0,107.06,91.76,15.3
+10/10/21,2021,Hobblin' Goblins,Long Island City Kitties,L,TRUE,30,0,68.9,112.15,-43.25
+10/17/21,2021,The Hartford Football Team,Amit Dubey's Apple Swan Bird,W,TRUE,31,1,76.85,62.2,14.65
+10/17/21,2021,Matty Ice’s Noodle Arm,The Frisky Kittens,W,TRUE,32,1,97.05,92.24,4.81
+10/17/21,2021,Wingville Wingdogs,Wharton WoW Club ,L,TRUE,33,1,84.68,90.03,-5.35
+10/17/21,2021,"BernardPollard, Licc My Kupp",Bonney Eagle Scots,W,TRUE,34,1,117.74,114.91,2.83
+10/17/21,2021,Swanky Shells,Long Island City Kitties,L,TRUE,35,1,71.55,117.97,-46.42
+10/17/21,2021,Jackson's Prep School Jailbate,Hobblin' Goblins,L,TRUE,36,1,123,125.59,-2.59
+10/17/21,2021,Amit Dubey's Apple Swan Bird,The Hartford Football Team,L,TRUE,31,0,62.2,76.85,-14.65
+10/17/21,2021,The Frisky Kittens,Matty Ice’s Noodle Arm,L,TRUE,32,0,92.24,97.05,-4.81
+10/17/21,2021,Wharton WoW Club ,Wingville Wingdogs,W,TRUE,33,0,90.03,84.68,5.35
+10/17/21,2021,Bonney Eagle Scots,"BernardPollard, Licc My Kupp",L,TRUE,34,0,114.91,117.74,-2.83
+10/17/21,2021,Long Island City Kitties,Swanky Shells,W,TRUE,35,0,117.97,71.55,46.42
+10/17/21,2021,Hobblin' Goblins,Jackson's Prep School Jailbate,W,TRUE,36,0,125.59,123,2.59
+10/24/21,2021,The Frisky Kittens,RIP Jeff's Integreity,W,TRUE,37,1,74.84,65.04,9.8
+10/24/21,2021,Wharton WoW Club ,The Hartford Football Team,W,TRUE,38,1,120.93,93.73,27.2
+10/24/21,2021,Bonney Eagle Scots,Matty Ice’s Noodle Arm,L,TRUE,39,1,61.54,127.14,-65.6
+10/24/21,2021,Long Island City Kitties,Wingville Wingdogs,W,TRUE,40,1,110.84,87.14,23.7
+10/24/21,2021,Hobblin' Goblins,"BernardPollard, Licc My Kupp",W,TRUE,41,1,124.51,105.3,19.21
+10/24/21,2021,Jackson's Prep School Jailbate,Swanky Shells,W,TRUE,42,1,99.01,92.28,6.73
+10/24/21,2021,RIP Jeff's Integreity,The Frisky Kittens,L,TRUE,37,0,65.04,74.84,-9.8
+10/24/21,2021,The Hartford Football Team,Wharton WoW Club ,L,TRUE,38,0,93.73,120.93,-27.2
+10/24/21,2021,Matty Ice’s Noodle Arm,Bonney Eagle Scots,W,TRUE,39,0,127.14,61.54,65.6
+10/24/21,2021,Wingville Wingdogs,Long Island City Kitties,L,TRUE,40,0,87.14,110.84,-23.7
+10/24/21,2021,"BernardPollard, Licc My Kupp",Hobblin' Goblins,L,TRUE,41,0,105.3,124.51,-19.21
+10/24/21,2021,Swanky Shells,Jackson's Prep School Jailbate,L,TRUE,42,0,92.28,99.01,-6.73
+10/31/21,2021,RIP Jeff's Integreity,Bonney Eagle Scots,W,TRUE,43,1,89,68.56,20.44
+10/31/21,2021,Amit Dubey's Apple Swan Bird,Wharton WoW Club ,L,TRUE,44,1,63.49,78.64,-15.15
+10/31/21,2021,The Hartford Football Team,Long Island City Kitties,L,TRUE,45,1,85.08,87.11,-2.03
+10/31/21,2021,Matty Ice’s Noodle Arm,Hobblin' Goblins,W,TRUE,46,1,114.82,112.95,1.87
+10/31/21,2021,Wingville Wingdogs,Jackson's Prep School Jailbate,W,TRUE,47,1,84.4,81.11,3.29
+10/31/21,2021,"BernardPollard, Licc My Kupp",Swanky Shells,L,TRUE,48,1,71.4,92.97,-21.57
+10/31/21,2021,Bonney Eagle Scots,RIP Jeff's Integreity,L,TRUE,43,0,68.56,89,-20.44
+10/31/21,2021,Wharton WoW Club ,Amit Dubey's Apple Swan Bird,W,TRUE,44,0,78.64,63.49,15.15
+10/31/21,2021,Long Island City Kitties,The Hartford Football Team,W,TRUE,45,0,87.11,85.08,2.03
+10/31/21,2021,Hobblin' Goblins,Matty Ice’s Noodle Arm,L,TRUE,46,0,112.95,114.82,-1.87
+10/31/21,2021,Jackson's Prep School Jailbate,Wingville Wingdogs,L,TRUE,47,0,81.11,84.4,-3.29
+10/31/21,2021,Swanky Shells,"BernardPollard, Licc My Kupp",W,TRUE,48,0,92.97,71.4,21.57
+11/7/21,2021,Hobblin' Goblins,RIP Jeff's Integreity,L,TRUE,49,1,52.46,61.74,-9.28
+11/7/21,2021,Bonney Eagle Scots,The Frisky Kittens,W,TRUE,50,1,86.35,69.08,17.27
+11/7/21,2021,Long Island City Kitties,Amit Dubey's Apple Swan Bird,L,TRUE,51,1,55.06,91.27,-36.21
+11/7/21,2021,Jackson's Prep School Jailbate,The Hartford Football Team,L,TRUE,52,1,98.19,135.54,-37.35
+11/7/21,2021,Swanky Shells,Matty Ice’s Noodle Arm,L,TRUE,53,1,87.03,108.68,-21.65
+11/7/21,2021,"BernardPollard, Licc My Kupp",Wingville Wingdogs,W,TRUE,54,1,82.52,77.86,4.66
+11/7/21,2021,RIP Jeff's Integreity,Hobblin' Goblins,W,TRUE,49,0,61.74,52.46,9.28
+11/7/21,2021,The Frisky Kittens,Bonney Eagle Scots,L,TRUE,50,0,69.08,86.35,-17.27
+11/7/21,2021,Amit Dubey's Apple Swan Bird,Long Island City Kitties,W,TRUE,51,0,91.27,55.06,36.21
+11/7/21,2021,The Hartford Football Team,Jackson's Prep School Jailbate,W,TRUE,52,0,135.54,98.19,37.35
+11/7/21,2021,Matty Ice’s Noodle Arm,Swanky Shells,W,TRUE,53,0,108.68,87.03,21.65
+11/7/21,2021,Wingville Wingdogs,"BernardPollard, Licc My Kupp",L,TRUE,54,0,77.86,82.52,-4.66
+11/14/21,2021,RIP Jeff's Integreity,Swanky Shells,L,TRUE,55,1,101.04,141.39,-40.35
+11/14/21,2021,Wharton WoW Club ,Long Island City Kitties,W,TRUE,56,1,89.87,89.84,0.03
+11/14/21,2021,The Frisky Kittens,Hobblin' Goblins,L,TRUE,57,1,65.89,87.42,-21.53
+11/14/21,2021,Amit Dubey's Apple Swan Bird,Jackson's Prep School Jailbate,L,TRUE,58,1,58.04,106.94,-48.9
+11/14/21,2021,The Hartford Football Team,"BernardPollard, Licc My Kupp",L,TRUE,59,1,78.5,105.67,-27.17
+11/14/21,2021,Matty Ice’s Noodle Arm,Wingville Wingdogs,W,TRUE,60,1,103.02,61.81,41.21
+11/14/21,2021,Swanky Shells,RIP Jeff's Integreity,W,TRUE,55,0,141.39,101.04,40.35
+11/14/21,2021,Long Island City Kitties,Wharton WoW Club ,L,TRUE,56,0,89.84,89.87,-0.03
+11/14/21,2021,Hobblin' Goblins,The Frisky Kittens,W,TRUE,57,0,87.42,65.89,21.53
+11/14/21,2021,Jackson's Prep School Jailbate,Amit Dubey's Apple Swan Bird,W,TRUE,58,0,106.94,58.04,48.9
+11/14/21,2021,"BernardPollard, Licc My Kupp",The Hartford Football Team,W,TRUE,59,0,105.67,78.5,27.17
+11/14/21,2021,Wingville Wingdogs,Matty Ice’s Noodle Arm,L,TRUE,60,0,61.81,103.02,-41.21
+11/21/21,2021,Wingville Wingdogs,RIP Jeff's Integreity,W,TRUE,61,1,74.08,70.45,3.63
+11/21/21,2021,Long Island City Kitties,Bonney Eagle Scots,L,TRUE,62,1,78.47,112.02,-33.55
+11/21/21,2021,Jackson's Prep School Jailbate,Wharton WoW Club ,W,TRUE,63,1,149.9,114.49,35.41
+11/21/21,2021,Swanky Shells,The Frisky Kittens,L,TRUE,64,1,83.74,115.32,-31.58
+11/21/21,2021,"BernardPollard, Licc My Kupp",Amit Dubey's Apple Swan Bird,W,TRUE,65,1,88.37,78.43,9.94
+11/21/21,2021,Matty Ice’s Noodle Arm,The Hartford Football Team,L,TRUE,66,1,97.43,110.73,-13.3
+11/21/21,2021,RIP Jeff's Integreity,Wingville Wingdogs,L,TRUE,61,0,70.45,74.08,-3.63
+11/21/21,2021,Bonney Eagle Scots,Long Island City Kitties,W,TRUE,62,0,112.02,78.47,33.55
+11/21/21,2021,Wharton WoW Club ,Jackson's Prep School Jailbate,L,TRUE,63,0,114.49,149.9,-35.41
+11/21/21,2021,The Frisky Kittens,Swanky Shells,W,TRUE,64,0,115.32,83.74,31.58
+11/21/21,2021,Amit Dubey's Apple Swan Bird,"BernardPollard, Licc My Kupp",L,TRUE,65,0,78.43,88.37,-9.94
+11/21/21,2021,The Hartford Football Team,Matty Ice’s Noodle Arm,W,TRUE,66,0,110.73,97.43,13.3
+11/28/21,2021,RIP Jeff's Integreity,The Hartford Football Team,TBD,FALSE,67,1,0,0,0
+11/28/21,2021,Long Island City Kitties,Jackson's Prep School Jailbate,TBD,FALSE,68,1,0,0,0
+11/28/21,2021,Bonney Eagle Scots,Swanky Shells,TBD,FALSE,69,1,0,0,0
+11/28/21,2021,Wharton WoW Club ,"BernardPollard, Licc My Kupp",TBD,FALSE,70,1,0,0,0
+11/28/21,2021,The Frisky Kittens,Wingville Wingdogs,TBD,FALSE,71,1,0,0,0
+11/28/21,2021,Amit Dubey's Apple Swan Bird,Matty Ice’s Noodle Arm,TBD,FALSE,71,1,0,0,0
+11/28/21,2021,The Hartford Football Team,RIP Jeff's Integreity,TBD,FALSE,67,0,0,0,0
+11/28/21,2021,Jackson's Prep School Jailbate,Long Island City Kitties,TBD,FALSE,68,0,0,0,0
+11/28/21,2021,Swanky Shells,Bonney Eagle Scots,TBD,FALSE,69,0,0,0,0
+11/28/21,2021,"BernardPollard, Licc My Kupp",Wharton WoW Club ,TBD,FALSE,70,0,0,0,0
+11/28/21,2021,Wingville Wingdogs,The Frisky Kittens,TBD,FALSE,71,0,0,0,0
+11/28/21,2021,Matty Ice’s Noodle Arm,Amit Dubey's Apple Swan Bird,TBD,FALSE,72,0,0,0,0
+,,,,,,,,,,
